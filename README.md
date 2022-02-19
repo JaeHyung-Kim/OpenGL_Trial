@@ -16,6 +16,9 @@ OpenGL hierarchy is represented with sit-up motion.
 ## 2. trackball
 With using quaternion, implement trackball. Drag, transition, zomm in/out and dolly in/out is implemented.
 
+<img width="80%" src="https://user-images.githubusercontent.com/72867850/154808586-a543846e-e80a-4716-8f76-a3a4de29afe1.gif"/>
+
+
 
 
 ## 3. swept surface
@@ -34,6 +37,5 @@ By using openGL, billiard room is implemented.
 ## 5. ray tracing
 By not using any rendering software, each implemented function of each ray from eye is tracked and calculated.
 
-!<img width="40%" src="https://user-images.githubusercontent.com/72867850/154807604-ca2d1da8-226d-4438-a160-f1c1a826a34d.png"/>
-<img width="40%" src="https://user-images.githubusercontent.com/72867850/154807609-103d002a-655f-4ae7-8bc3-62ea5e511d1b.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/72867850/154807609-103d002a-655f-4ae7-8bc3-62ea5e511d1b.png"/>
 
