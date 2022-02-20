@@ -14,7 +14,7 @@ OpenGL hierarchy is represented with sit-up motion.
 
 
 ## 2. trackball
-With using quaternion, implement trackball. Drag, transition, zomm in/out and dolly in/out is implemented.
+With using quaternion, implement trackball. Drag, transition, zoom in/out and dolly in/out is implemented.
 
 <img width="80%" src="https://user-images.githubusercontent.com/72867850/154808586-a543846e-e80a-4716-8f76-a3a4de29afe1.gif"/>
 
